@@ -8,3 +8,5 @@ int main(){
     printf("Halo %s", fullname);
     return 0;
 }
+
+//Pada program kedua yang menggunakan fgets, input akan membaca keseluruhan karakter, termasuk spasi. Hal ini berarti bahwa program akan membaca seluruh nama lengkap yang dimasukkan oleh pengguna dan juga termasuk spasi di dalamnya.

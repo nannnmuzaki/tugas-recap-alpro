@@ -6,3 +6,5 @@ int main() {
   printf("Baris ketiga");
   return 0;
 }
+
+// output dari '\n' adalah newline atau baris baru dalam string yang dicetak.
