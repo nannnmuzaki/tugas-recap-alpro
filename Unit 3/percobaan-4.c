@@ -16,3 +16,5 @@ int main() {
 
     return 0;
 }
+
+// Pertama, program tersebut mendefinisikan dua konstanta `MAX_PERSONS` dan `MAX_NAME_LENGTH` yang menentukan ukuran maksimum dari array nama dan panjang karakter maksimum dari nama itu sendiri. Kemudian, program mendefinisikan array `names` yang berisi nama-nama orang dengan tipe data dari array tersebut adalah char dan array `ages` yang berisi usia masing-masing orang dengan tipe data dari array tersebut adalah int.
